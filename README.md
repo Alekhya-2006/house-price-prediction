@@ -89,9 +89,13 @@ house-price-prediction/
 ├── notebooks/
 │   └── house_price_prediction.ipynb
 │
+├── outputs/
+│   └── house_price_predictions.csv
+│
 ├── README.md
+├── requirements.txt
 └── .gitignore
-```
+````
 
 ---
 
