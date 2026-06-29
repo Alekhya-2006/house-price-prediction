@@ -89,8 +89,6 @@ house-price-prediction/
 ├── notebooks/
 │   └── house_price_prediction.ipynb
 │
-├── images/
-│
 ├── README.md
 └── .gitignore
 ```
